@@ -177,3 +177,7 @@ img {
 nav {
     display: block;
 }
+
+li {
+    text-align: -webkit-match-parent;
+}
