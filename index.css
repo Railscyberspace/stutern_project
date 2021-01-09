@@ -170,7 +170,7 @@ img {
 }
 
 .main-navigation {
-    display: block;
+    display: inline-flexbox;
     width: 100%;
 }
 
@@ -180,4 +180,18 @@ nav {
 
 li {
     text-align: -webkit-match-parent;
+
+}
+
+.main-navigation li {
+    position: relative;
+    margin-right: 15px;
+    font-family: Arial,sans-serif;
+}
+
+.main-navigation ul {
+    display: inline-flexbox;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
 }
