@@ -1,0 +1,179 @@
+.site-title a:active, .site-title a:visited  {
+    color: #000;
+}
+
+
+h1 > a:visited, h2 > a:visited, h3 > a:visited, h4 > a:visited, h5 > a:visited, h6 > a:visited {
+    color: #000;
+}
+
+a:visited {
+    color: #82A0BC;
+}
+
+
+h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a {
+    color: #000;
+}
+
+
+a {
+    color: #82A0BC;
+    text-decoration: none;
+}
+
+
+a {
+    background-color: transparent;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+.site-title {
+    font-size: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+    font-family: 'IBM Plex Sans',Helvetica,sans-serif;
+    color: #000;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+
+body, button, input, select, optgroup, textarea {
+    color: #555;
+    font-family: 'Vollkorn',serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+element.style {
+    scroll-behavior: auto;
+}
+
+:root {
+    --wp-admin-theme-color: #007cba;
+    --wp-admin-theme-color-darker-10: #006ba1;
+    --wp-admin-theme-color-darker-20: #005a87;
+}
+
+
+html {
+    width: 80%;
+}
+
+
+html {
+    background: #fff;
+    max-width: 700px;
+    margin: 10px auto;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+
+
+
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+
+p {
+    margin-bottom: 1.5em;
+    font-size: 1.2em;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+.recentPostsList li {
+    list-style-type: none;
+    font-family: Arial,sans-serif;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+b, strong {
+    font-weight: bolder;
+}
+
+strong {
+    font-weight: bold;
+}
+
+
+/* images styling */
+img {
+    width: 1024px;
+    height: 683px;
+}
+img {
+    border-style: none;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+.wp-block-image img {
+    max-width: 100%;
+}
+
+
+/* menu styling */
+#site-navigation > button  {
+    background-color: #e8f3fb;
+    border: none;
+    margin-bottom: 20px;
+    font-family: Arial,sans;
+}
+
+.main-navigation {
+    display: block;
+    width: 100%;
+}
+
+nav {
+    display: block;
+}
