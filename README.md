@@ -1,1 +1,0 @@
-# Stutern_Project
